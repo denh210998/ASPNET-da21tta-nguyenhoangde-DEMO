@@ -1,10 +1,11 @@
-# ASPNET-da21tta-nguyenhoangde-DEMO
+# ASPNET-DK24TTC2-nguyenhoangde-DEMO
 Đề tài: Xây dựng website bán sản phẩm công nghệ của Apple.
 # ĐỒ ÁN ASP.NET - WEBSITE BÁN SẢN PHẨM CÔNG NGHỆ APPLE
 
 ## Thông tin sinh viên
-- **Họ và tên:** Nguyễn Hoàng Đệ  
-- **Lớp:** DA21TTA  
+- **Họ và tên:** Nguyễn Hoàng Đệ
+- **MSSV:** 170124204
+- **Lớp:** DK24TTC2  
 - **Ngành:** Công nghệ thông tin  
 - **Môn học:** Lập trình Web với ASP.NET  
 - **Giảng viên hướng dẫn:** 
@@ -46,5 +47,5 @@ Ngoài ra, hệ thống còn hỗ trợ người quản trị trong việc quả
 - Thống kê doanh thu.
 
 
-## 🗂️ Cấu trúc thư mục dự án (dự kiến)
+## Cấu trúc thư mục dự án (dự kiến)
 
